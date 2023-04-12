@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4282145.svg)](https://doi.org/10.5281/zenodo.4282145)
 
 # Exploring human-nature interactions in national parks using social media photographs and computer vision
-This repository contains Python scripts for the article *Exploring human-nature interactions in national parks using social media photographs and computer vision* published in Conservation Biology. The scripts use off-the-shelf computer vision models detect objects, extract features and classify scenes from social media photographs taken in Finnish national parks.
+This repository contains Python scripts for the article [*Exploring human-nature interactions in national parks using social media photographs and computer vision*](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13704) published in Conservation Biology. The scripts use off-the-shelf computer vision models detect objects, extract features and classify scenes from social media photographs taken in Finnish national parks.
 
 Follow the steps below to reproduce the results from the article or to adapt them to your own data. 
 
